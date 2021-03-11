@@ -1,2 +1,0 @@
-# Shutdown Roulette
-A game.
